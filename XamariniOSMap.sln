@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSMap", "XamariniOSMap\XamariniOSMap.csproj", "{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Release|iPhone.Build.0 = Release|iPhone
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CADCEE35-B4EB-44B5-A0FB-68C3FFA65985}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
